@@ -19,8 +19,8 @@ To run the customer interface please follow the steps below:
 	npm install
 	node bamazonCustomer.js
 
-![Image of the Store Front](/Users/calebreed/Documents/HOMEWORK/WEEK12/Bamazon/images/Screen Shot 2018-09-07 at 8.57.15 PM.png)
+![Image of the Store Front](https://github.com/Calebreed1/Bamazon/blob/master/images/Screen%20Shot%202018-09-07%20at%208.57.15%20PM.png?raw=true)
 
-![Image of the Store Front](/Users/calebreed/Documents/HOMEWORK/WEEK12/Bamazon/images/Screen Shot 2018-09-07 at 8.57.54 PM.png)
+![Image of the Store Front](https://github.com/Calebreed1/Bamazon/blob/master/images/Screen%20Shot%202018-09-07%20at%208.57.54%20PM.png?raw=true)
 
 
